@@ -1,2 +1,2 @@
 # apnacollege-demo
-Author- Daksh Pratap Singh
+Author-<br> Daksh Pratap Singh
